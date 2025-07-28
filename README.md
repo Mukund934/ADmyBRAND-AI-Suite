@@ -15,6 +15,7 @@ An elegant, visually striking, and fully responsive SaaS landing page crafted fo
 
 ### Preview 3
 ![Preview 3](./preview3.png)
+
 ---
 
 ## 📖 Overview
@@ -26,6 +27,8 @@ This landing experience is structured to serve as a **real-world SaaS homepage**
 ---
 
 ## 🌟 Features
+
+
 
 ### ✨ Modern Hero Section with Animated Headlines
 
@@ -75,7 +78,56 @@ This landing experience is structured to serve as a **real-world SaaS homepage**
 * Elegant gradient backgrounds, subtle shadows, animated borders.
 * Refined spacing, fluid layout responsiveness, and classy typography combinations using **modern SaaS visual language**.
 
+
+
+
 ---
+
+## 🚀 Getting Started (Local Setup)
+
+Follow these steps to set up the project locally:
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+```
+
+### 2. Install Dependencies
+
+Using your preferred package manager:
+
+```bash
+# with npm
+npm install
+
+# or with yarn
+yarn install
+```
+
+### 3. Set Up Environment Variables
+
+Create a `.env.local` file in the root directory and configure the required environment variables.
+Example:
+
+```env
+NEXT_PUBLIC_SUPABASE_URL=your_project_url
+NEXT_PUBLIC_SUPABASE_ANON_KEY=your_anon_key
+```
+
+### 4. Run the Development Server
+
+```bash
+npm run dev
+# or
+yarn dev
+```
+
+Navigate to [http://localhost:3000](http://localhost:3000) to view the app.
+
+---
+
 
 ## 🧩 UI Inspiration & Design References
 
