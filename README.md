@@ -173,6 +173,56 @@ Navigate to [http://localhost:3000](http://localhost:3000) to view the app.
 
 ---
 
+## 🤖 AI Usage Report
+
+### AI Tools Used
+- **Primary tools**:
+  - ChatGPT (for architecture planning, code scaffolding, content writing)
+  - GitHub Copilot (for autocomplete and utility code generation)
+  - v0.dev (for generating responsive UI components)
+  - Figma AI (for UI wireframing and visual layout ideas)
+
+- **Key use cases**:
+  - UI layout generation (hero section, cards, charts)
+  - Tailwind + shadcn/ui component generation
+  - Smooth scroll and animation implementation (Framer Motion)
+  - Prompted reusable component architecture (Button, Card, Chart, Table)
+  - Readme writing and task planning with AI support
+
+---
+
+### Sample Prompts Used
+
+1. `"Create a responsive hero section using Next.js and Tailwind with glassmorphism style and CTA buttons"`
+2. `"Generate a modern pricing card component with hover effects using shadcn/ui"`
+3. `"How to implement parallax scroll and floating animation in a Next.js landing page?"`
+
+---
+
+### AI vs Manual Work Split
+
+- **AI-generated (~60%)**:
+  - Initial component scaffolding (Hero, Pricing, Features, Dashboard Widgets)
+  - Boilerplate layout (Next.js App Router, layout.tsx, etc.)
+  - Utility functions and styling help (Tailwind configs, animation logic)
+
+- **Manual coding (~40%)**:
+  - Custom logic for chart responsiveness, state management
+  - Component composition and integration
+  - Final layout polishing, media queries, accessibility improvements
+  - Animation tuning and interactive UX refinement
+
+- **Customization**:
+  - Refined all AI-generated code to meet brand theme and interaction goals
+  - Adjusted typography, spacing, responsiveness, and ARIA labels
+  - Converted static suggestions into dynamic, reusable components
+
+---
+
+##### This report highlights how AI was used not only to speed up development but also to improve component quality and visual consistency.
+
+---
+
 ## 🎯 Highlights & UX Strategy
 
 * 👁 **Visual Hierarchy** – Titles, sections, and components spaced and sized for maximum scannability.
