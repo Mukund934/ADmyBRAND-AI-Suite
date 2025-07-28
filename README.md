@@ -5,6 +5,16 @@
 
 An elegant, visually striking, and fully responsive SaaS landing page crafted for AI-based business platforms. Designed with cutting-edge UI/UX practices, fluid animations, and reusable component architecture to deliver a memorable first impression and high conversion potential.
 
+## 🔍 Project Preview
+
+### Preview 1
+![Preview 1](./preview1.png)
+
+### Preview 2
+![Preview 2](./preview2.png)
+
+### Preview 3
+![Preview 3](./preview3.png)
 ---
 
 ## 📖 Overview
@@ -93,7 +103,7 @@ This landing experience is structured to serve as a **real-world SaaS homepage**
 ## 💻 Live Demo
 
 🌐 Visit the live deployment:
-**[LINK](https://admybrand-landing.vercel.app)**
+**[LINK](https://a-dmy-brand-ai-suite.vercel.app/)**
 
 
 ---
